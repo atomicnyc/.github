@@ -1,4 +1,4 @@
-# .github
+# Hello from Brooklyn!
 Atomic NYC GitHub
 
 Our mission is to engineer high-quality, highly effective, digital applications for reading, teaching, and learning.
