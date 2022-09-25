@@ -1,0 +1,2 @@
+# .github
+Atomic NYC GitHub
